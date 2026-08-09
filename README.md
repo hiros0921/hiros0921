@@ -28,8 +28,10 @@
 
 ### 使うもの
 
-近年　Python・JavaScript・TypeScript・SQL／Firebase・Stripe・Netlify・Cloudflare Workers・Vercel／ffmpeg
-以前　Java・C++・Visual Basic・Oracle（2001〜2012年　業務システムの開発・保守）
+| | |
+|---|---|
+| **近年** | Python・JavaScript・TypeScript・SQL ／ Firebase・Stripe・Netlify・Cloudflare Workers・Vercel ／ ffmpeg |
+| **以前** | Java・C++・Visual Basic・Oracle（2001〜2012年　業務システムの開発・保守） |
 
 ### そのほか
 
