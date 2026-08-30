@@ -38,3 +38,8 @@
 慶應義塾大学 法学部 卒 ／ 応用情報技術者 ／ TOEIC 990点
 
 書いたもの → [Substack](https://substack.com/@hirosuwa)
+
+polygonplanet/encoding.js #64   マージ済み
+duckdb/duckdb-encodings #19     調査が upstream の修正に取り込まれた
+mholt/PapaParse                 2件
+ggml-org/whisper.cpp            2件
