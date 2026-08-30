@@ -43,3 +43,9 @@ polygonplanet/encoding.js #64   マージ済み
 duckdb/duckdb-encodings #19     調査が upstream の修正に取り込まれた
 mholt/PapaParse                 2件
 ggml-org/whisper.cpp            2件
+
+### OSSへの貢献
+- [polygonplanet/encoding.js #64](https://github.com/polygonplanet/encoding.js/pull/64) — 文字コード判定の誤検出を修正（マージ済・v2.3.0で動作確認）
+- [duckdb/duckdb-encodings #19](https://github.com/duckdb/duckdb-encodings/issues/19) — CP932の変換不備を調査。upstream の修正 #20 に反映
+
+- 
